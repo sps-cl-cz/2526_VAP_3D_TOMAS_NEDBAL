@@ -1,0 +1,28 @@
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\bin\Debug\net8.0\obsah trojuhelniku.exe
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\bin\Debug\net8.0\obsah trojuhelniku.deps.json
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\bin\Debug\net8.0\obsah trojuhelniku.runtimeconfig.json
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\bin\Debug\net8.0\obsah trojuhelniku.dll
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\bin\Debug\net8.0\obsah trojuhelniku.pdb
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.GeneratedMSBuildEditorConfig.editorconfig
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.AssemblyInfoInputs.cache
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.AssemblyInfo.cs
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.csproj.CoreCompileInputs.cache
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.dll
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\obj\Debug\net8.0\refint\obsah trojuhelniku.dll
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.pdb
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.genruntimeconfig.cache
+R:\3. ročník\VAP\obsah trojuhelniku\obsah trojuhelniku\obj\Debug\net8.0\ref\obsah trojuhelniku.dll
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\bin\Debug\net8.0\obsah trojuhelniku.exe
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\bin\Debug\net8.0\obsah trojuhelniku.deps.json
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\bin\Debug\net8.0\obsah trojuhelniku.runtimeconfig.json
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\bin\Debug\net8.0\obsah trojuhelniku.dll
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\bin\Debug\net8.0\obsah trojuhelniku.pdb
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.GeneratedMSBuildEditorConfig.editorconfig
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.AssemblyInfoInputs.cache
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.AssemblyInfo.cs
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.csproj.CoreCompileInputs.cache
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.dll
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\obj\Debug\net8.0\refint\obsah trojuhelniku.dll
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.pdb
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\obj\Debug\net8.0\obsah trojuhelniku.genruntimeconfig.cache
+R:\3. ročník\VAP\ulohy\obsah trojuhelniku\obj\Debug\net8.0\ref\obsah trojuhelniku.dll
